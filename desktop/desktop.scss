@@ -9,7 +9,7 @@ body:not(.navigation-categories, .navigation-topics) #main-outlet {
   border-top: 8px solid $tertiary;
   margin-top: 1em;
 
-  @include mint-card-bg;
+  
 }
 
 .boxed {
