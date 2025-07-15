@@ -12,11 +12,7 @@ body:not(.navigation-categories, .navigation-topics) #main-outlet {
   
 }
 
-.boxed {
-  &.white {
-    @include mint-card-bg;
-  }
-}
+
 
 #main-outlet::after {
   content: "";
